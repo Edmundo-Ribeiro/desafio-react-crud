@@ -23,6 +23,20 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "novo",
+      "name": "prato papa",
+      "price": "90",
+      "description": "aqui",
+      "id": 4
+    },
+    {
+      "image": "pewpew",
+      "name": "pppp",
+      "price": "9090",
+      "description": "jfjfjf",
+      "id": 5
     }
   ]
 }
